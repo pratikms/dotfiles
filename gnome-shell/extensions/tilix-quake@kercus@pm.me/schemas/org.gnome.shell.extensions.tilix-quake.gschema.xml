@@ -1,0 +1,8 @@
+<schemalist>
+  <schema id="org.gnome.shell.extensions.tilix-quake" path="/org/gnome/shell/extensions/tilix-quake/">
+    <key type="as" name="key">
+      <default><![CDATA[['F10']]]></default>
+      <summary>Key to start tilix in quake mode</summary>
+    </key>
+  </schema>
+</schemalist>
